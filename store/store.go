@@ -2,6 +2,6 @@ package store
 
 import "fmt"
 
-func store() {
+func Store() {
 	fmt.Println("store")
 }
